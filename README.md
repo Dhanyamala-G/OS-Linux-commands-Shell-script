@@ -36,18 +36,18 @@ anil aggarwal
 barun sengupta
 c.k. shukla
 lalit chowdury
-s.n. dasgupta
+lalit chowdury
 ^d
 ```
 ### Display the content of the files
 cat < file1
 ## OUTPUT
-
+![Alt text](image.png)
 
 
 cat < file2
 ## OUTPUT
-
+![Alt text](image-1.png)
 
 # Comparing Files
 cmp file1 file2
