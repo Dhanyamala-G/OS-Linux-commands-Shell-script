@@ -379,7 +379,6 @@ cat urllist.txt | tr -d ' ' | tr -s '.'
 #Backup commands
 tar -cvf backup.tar *
 ## OUTPUT
-![Alt text](image-48.png)
 ![Alt text](image-49.png)
 
 
